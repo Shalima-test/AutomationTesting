@@ -1,7 +1,7 @@
 # Automation Test for User Profile Creation
 
 **Submitted by:** Shalima S.  
-**Date:** 27/09/2024
+**Date:** 01/10/2024
 
 ## INTRODUCTION
 This document outlines the automation test created for the user profile creation process in the application located at [https://sg-app.abouv.com/](https://sg-app.abouv.com/). The automation test begins from the Welcome page and follows the signup process through to the user's profile creation. The objective is to ensure that all steps function correctly and that the user can successfully create a profile.
